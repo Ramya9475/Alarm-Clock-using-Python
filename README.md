@@ -8,7 +8,8 @@ Activate or deactivate the alarm.
 Plays a sound when the alarm goes off.
 
 ## Requirements
-Python 3.x
+Python 3.x 
+
 Required Python libraries:
   tkinter
   pygame
