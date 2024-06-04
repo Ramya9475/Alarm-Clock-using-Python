@@ -11,9 +11,9 @@ Plays a sound when the alarm goes off.
 Python 3.x 
 
 Required Python libraries:
-  tkinter
-  pygame
-  PIL (Pillow)
+  tkinter, 
+  pygame, 
+  PIL (Pillow), 
   datetime
 
 ## Code Overview
